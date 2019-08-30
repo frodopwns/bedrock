@@ -1,6 +1,6 @@
 
 #--------------------------------------------------------------
-# keyvault, vnet, and subnets are created seperately by azure-common-infra{Test for PR#567}
+# keyvault, vnet, and subnets are created seperately by azure-common-infra
 #--------------------------------------------------------------
 keyvault_name = "my-keyvault"
 keyvault_resource_group = "my-global-rg"
