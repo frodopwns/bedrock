@@ -10,7 +10,7 @@ gitops_ssh_key           = "<path to private gitops repo key>"
 vnet_name                = "<vnet name>"
 
 #--------------------------------------------------------------
-# Optional variables - Uncomment to use{Test-for-PR#567}
+# Optional variables - Uncomment to use
 #--------------------------------------------------------------
 # gitops_url_branch = "release-123"
 # gitops_poll_interval = "30s"
